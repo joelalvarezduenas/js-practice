@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "variables1": "node variables/variables1.js",
+    "variables2": "node variables/variables2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
